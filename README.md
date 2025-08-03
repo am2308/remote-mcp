@@ -3,7 +3,6 @@
 A containerized MCP (Model Context Protocol) server using FastMCP that provides a simple calculator tool for adding two numbers. This MCP server runs on Amazon EKS. The highlevel diagram of this project below:
 ![High Level Design](./remote-mcp-server-eks.png)
 
-[Detailed walkthrough video](https://youtu.be/jv67szyjKfc)
 
 ## Files
 
